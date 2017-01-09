@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65e92f37126cbad1131f93b0ee18226e17d2ee31">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_aafcc6b065d79f2d5f6ef173eaedb888b896aecf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f2e1d8a1d5498c89030174addecb29049b8ac023\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\libs\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.4_6fd75118ed42b404ce3770028abedd624b2d7f69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\libs\KGJsonConverter.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\2\KGJsonConverter_c5c2d9507fa9ac3aa359ee58a281920752b3d770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_6fbb29bb529c7d7d7f97d165780716cd241219ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_f4f11528fef5a7bb587964804ebcad0404306406\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\libs\GenAsync.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a58a869c275f3424cffb0c266d1d1c1518e38e7">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync_8767252090fe170c2b7fc6d63a07fde3517b84e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c899690aa8ae945551954ad9e6c1d5e3f880baed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_05abe58ca02f35893026d8a394e49e7452347f4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_c88304d09edfae39163876b0667e0556803dca4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YilverMolina\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_049fedfc273f957462931c854a5b626801a91a43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_a2cb7934655c5593c1f7fe833c96817d8190ede2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0bf8dff25dfae7047510880a4bed5da466050f36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_11ed7d5208390c2f6a7a4b3929d9f86d7d2e9417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8ecf0b5e7077ec8be5ecda80c26f2f97ef4bdbfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_cf3bba6086d78670bf71c0fb59ac1744dbcfcab4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_43de20c8015f7c387559748b56707f2dc702ccd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7e25c3b5fe3f6b107a36c0203edb87234abe181">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ccd41caa325069dbb15ff57366192fc0655f729d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_8d411f0b61d492dec203db24209a9adb158adfb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_45fa0f160d42ff620ff99745482768fe47748e9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_36e6967dca54d4f3650c080012f2c2b4c130ff90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\GIECOM\Domotica\App\SmartHouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_0caa18feb6ce5468482bfc82960038ef41760573\classes.dex" />
+    </item>
+
+</items>
